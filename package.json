@@ -1,0 +1,12 @@
+{
+  "name": "altair-graphql-plugin-graphql-playground",
+  "version": "0.0.1",
+  "description": "GraphQL Playground Theme for Altair GraphQL Client.",
+  "main": "theme.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elyku/altair-graphql-plugin-graphql-playground.git"
+  },
+  "author": "elyku",
+  "license": "MIT"
+}

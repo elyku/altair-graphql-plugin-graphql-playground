@@ -1,1 +1,3 @@
-# altair-graphql-plugin-graphql-playground
+# altair-graphql-plugin-graphql-playground theme
+
+theme
