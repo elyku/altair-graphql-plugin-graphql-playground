@@ -35,7 +35,6 @@ class GraphQLPlayground {
     });
 
     ctx.theme.enable("playground", true);
-    ctx.theme.enable("playground", false);
   }
 
   async destroy() {}
