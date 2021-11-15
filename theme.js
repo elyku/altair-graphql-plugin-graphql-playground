@@ -33,8 +33,6 @@ class GraphQLPlayground {
         },
       },
     });
-
-    ctx.theme.enable("playground", true);
   }
 
   async destroy() {}
